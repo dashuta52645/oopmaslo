@@ -1,2 +1,2 @@
-# oopmaslo
-the labs oop
+# Maslo Darya
+4 group POIT
